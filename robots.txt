@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://berita-sumut.github.io/terkini/sitemap.xml
